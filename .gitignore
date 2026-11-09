@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Colcon output
+build/
+install/
+log/
+
+# Local credentials
+.env
+.env.*
+!.env.example
